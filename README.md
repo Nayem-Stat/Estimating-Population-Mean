@@ -103,4 +103,48 @@ Rerunning the code shows three issues in the published tables. See [`docs/reprod
 }
 ```
 
+## References
+
+[1] Neyman, J. (1937). Outline of a theory of statistical estimation based on the classical theory of probability. Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences, 236, 333–380.
+
+[2] Chen, L. (1995). Testing the mean of skewed distributions. Journal of the American Statistical Association, 90, 767.
+
+[3] Baklizi, A., and Kibria, B. M. G. (2009). One and two sample confidence intervals for estimating the mean of skewed populations: an empirical comparative study. Journal of Applied Statistics, 36, 601–609.
+
+[4] Banik, S., and Kibria, B. M. G. (2010). Comparison of some parametric and nonparametric type one sample confidence intervals for estimating the mean of a positively skewed distribution. Communications in Statistics - Simulation and Computation, 39, 361–389.
+
+[5] Ghosh, S., and Polansky, A. M. (2016). New bootstrap confidence intervals for means of positively skewed distributions. Communications in Statistics - Theory and Methods, 45, 6915–6927.
+
+[6] Mudelsee, M., and Alkio, M. (2007). Quantifying effects in two-sample environmental experiments using bootstrap confidence intervals. Environmental Modelling & Software, 22, 84–96.
+
+[7] Andersson, P. G. (2004). Alternative confidence intervals for the total of a skewed biological population. Ecology, 85, 3166–3171.
+
+[8] Shi, W., and Kibria, B. M. G. (2007). On some confidence intervals for estimating the mean of a skewed population. International Journal of Mathematical Education in Science and Technology, 38, 412–421.
+
+[9] Zhou, X. H. (2005). Nonparametric confidence intervals for the one- and two-sample problems. Biostatistics, 6, 187–200.
+
+[10] Abu-Shawiesh, M. O. A., and Saghir, A. (2020). Robust confidence intervals for the population mean alternatives to the Student-t confidence interval. Journal of Modern Applied Statistical Methods, 18, 2–20.
+
+[11] Luh, W., and Guo, J. (2001). Transformation works for non-normality? On one-sample transformation trimmed t methods. British Journal of Mathematical and Statistical Psychology, 54, 227–236.
+
+[12] Baklizi, A. (2008). Inference about the mean of a skewed population: a comparative study. Journal of Statistical Computation and Simulation, 78, 421–435.
+
+[13] Abu-Shawiesh, M. O. A., Banik, S., Kibria, B. M. G., and Akyüz, H. E. (2020). A comparison of some modified confidence intervals based on robust scale estimators for process capability index. Production Engineering, 14, 217–229.
+
+[14] Abu-Shawiesh, M. O. A., et al. (2018). Confidence intervals based on absolute deviation for population mean of a positively skewed distribution. International Journal of Computational and Theoretical Statistics, 5, 1–13.
+
+[15] Sinsomboonthong, J., Abu-Shawiesh, M. O. A., and Kibria, B. M. G. (2020). Performance of robust confidence intervals for estimating population mean under both non-normality and in presence of outliers. Advances in Science, Technology and Engineering Systems Journal, 5, 442–449.
+
+[16] Abu-Shawiesh, M. O. A., Sinsomboonthong, J., and Kibria, B. M. G. (2022). A modified robust confidence interval for the population mean of distribution based on deciles. Statistics in Transition New Series, 23, 109–128.
+
+[17] Almonte, C., and Kibria, B. M. G. (2009). On some classical, bootstrap and transformation confidence intervals for estimating the mean of an asymmetrical population. Model Assisted Statistics and Applications, 4, 91–104.
+
+[18] Johnson, N. J. (1978). Modified t tests and confidence intervals for asymmetrical populations. Journal of the American Statistical Association, 73, 536–544.
+
+[19] Gastwirth, J. L. (1982). Statistical properties of a measure of tax assessment uniformity. Journal of Statistical Planning and Inference, 6, 1–12.
+
+[20] Yanagihara, H., and Yuan, K. (2005). Four improved statistics for contrasting means by correcting skewness and kurtosis. British Journal of Mathematical and Statistical Psychology, 58, 209–237.
+
+[21] Hall, P. (1992). On the removal of skewness by transformation. Journal of the Royal Statistical Society Series B, 54, 221–228.
+
 Contact: HM Nayem, hnaye001@fiu.edu
